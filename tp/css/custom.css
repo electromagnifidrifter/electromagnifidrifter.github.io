@@ -13,7 +13,11 @@
     GENERAL  STYLES    
     =============================================*/
 body {
-    font-family: 'Covered By Your Grace', sans-serif;  
+    font-family: 'Roboto', sans-serif; 
+}
+
+.fancyText {
+    font-family: 'Covered By Your Grace', sans-serif;
 }
 
  #wrapper {
