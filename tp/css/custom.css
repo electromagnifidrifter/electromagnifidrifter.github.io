@@ -20,11 +20,11 @@ body {
     font-family: 'Covered By Your Grace', sans-serif;
 }
 
-.i-form-left {
+form .i-form-left {
 	width: 70%;
 }
 
-.i-form-right {
+form .i-form-right {
 	width: 30%;
 }
 
