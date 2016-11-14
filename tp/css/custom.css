@@ -16,7 +16,7 @@ body {
     font-family: 'Roboto', sans-serif; 
 }
 
-.fancy-text {
+.navbar a, h1, h2 {
     font-family: 'Covered By Your Grace', sans-serif;
 }
 
