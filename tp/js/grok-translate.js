@@ -5,6 +5,7 @@ var groktranslate = {
 			data: formData,
 			success: function(data) {
 				console.log(data);
+				$('#translation-output').html(data);
 			}
 		});
 	}
